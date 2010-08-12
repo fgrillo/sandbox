@@ -1,5 +1,5 @@
- Ruby on Rails Tutorial: first application
+h1. Ruby on Rails Tutorial: first application
 
 This is the first application for RailsTutorial
 
-www.fgrillo.net
+(www.fgrillo.net)
